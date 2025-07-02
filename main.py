@@ -16,7 +16,7 @@ def obtener_tipo(file_name):
         else:
             return file_name[pos:]
 # 1
-path = input("Insert the absolute directory path that you want to :\n")
+path = input("Insert the absolute directory path that you want to order:\n")
 
 # 2
 try:
